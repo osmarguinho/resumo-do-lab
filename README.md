@@ -10,3 +10,4 @@ Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 Todas as opções de armazenamentos e transferencias de arquivos
 Excelente explicação e conteudo de grande qualidade.
 Exclente aula de atomação das ferramentas da AZURE
+Monitoramento Inteligente com o Azure
