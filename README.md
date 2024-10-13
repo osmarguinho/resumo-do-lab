@@ -6,3 +6,6 @@ Os conceitos estão sendo bem apresentados, agora aprendi a criar um banco de da
 Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 Todas as opções de armazenamentos e transferencias de arquivos
 Excelente explicação e conteudo de grande qualidade.
+Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+Todas as opções de armazenamentos e transferencias de arquivos
+Excelente explicação e conteudo de grande qualidade.
